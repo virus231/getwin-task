@@ -6,9 +6,9 @@ function App() {
 
     return (
         <>
-            <Button type="primary">
-                button
-            </Button>
+            {/*<Button type="primary">*/}
+            {/*    button*/}
+            {/*</Button>*/}
         </>
     )
 }
